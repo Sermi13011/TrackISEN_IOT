@@ -1,0 +1,3 @@
+C:/TouchGFXProjects/MyApplication_3/TouchGFX/gui/src/model/Model.cpp:13:1:Model::Model()	0	static
+C:/TouchGFXProjects/MyApplication_3/TouchGFX/gui/src/model/Model.cpp:33:6:void Model::screenUpdate(char*, char*)	0	static
+C:/TouchGFXProjects/MyApplication_3/TouchGFX/gui/src/model/Model.cpp:18:6:void Model::tick()	32	static

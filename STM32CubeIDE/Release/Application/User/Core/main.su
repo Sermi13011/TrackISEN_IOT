@@ -1,0 +1,10 @@
+C:/TouchGFXProjects/MyApplication_3/Core/Src/main.c:758:16:hts221_write	24	static
+C:/TouchGFXProjects/MyApplication_3/Core/Src/main.c:754:16:hts221_read	24	static
+C:/TouchGFXProjects/MyApplication_3/Core/Src/main.c:771:6:StartDefaultTask	8	static
+C:/TouchGFXProjects/MyApplication_3/Core/Src/main.c:71:7:linear_interpolation	0	static
+C:/TouchGFXProjects/MyApplication_3/Core/Src/main.c:278:6:SystemClock_Config	88	static
+C:/TouchGFXProjects/MyApplication_3/Core/Src/main.c:721:5:__io_putchar	0	static,ignoring_inline_asm
+C:/TouchGFXProjects/MyApplication_3/Core/Src/main.c:725:19:Init_HTS221	16	static
+C:/TouchGFXProjects/MyApplication_3/Core/Src/main.c:150:5:main	120	static,ignoring_inline_asm
+C:/TouchGFXProjects/MyApplication_3/Core/Src/main.c:827:6:HAL_TIM_PeriodElapsedCallback	0	static
+C:/TouchGFXProjects/MyApplication_3/Core/Src/main.c:844:6:Error_Handler	0	static

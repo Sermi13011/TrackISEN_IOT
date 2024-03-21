@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextDatabase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="texts.xsd" Version="4.22.1">
+  <Languages>
+    <Language Id="GB" />
+  </Languages>
+  <Texts>
+    <TextGroup Id="Group1">
+      <Text Id="ResourceId1" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">New Text</Translation>
+      </Text>
+    </TextGroup>
+    <TextGroup Id="Unsorted">
+      <Text Id="__SingleUse_QBMC" Alignment="Left" TypographyId="Large">
+        <Translation Language="GB">Temp </Translation>
+      </Text>
+      <Text Id="__SingleUse_SKYZ" Alignment="Left" TypographyId="Large">
+        <Translation Language="GB">Hum </Translation>
+      </Text>
+      <Text Id="__SingleUse_FKKJ" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">0</Translation>
+      </Text>
+      <Text Id="__SingleUse_AU6Z" Alignment="Center" TypographyId="Large">
+        <Translation Language="GB">&lt;s&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_6P88" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB" Alignment="Left">0</Translation>
+      </Text>
+      <Text Id="__SingleUse_NJQS" Alignment="Center" TypographyId="Large">
+        <Translation Language="GB">&lt;s&gt;</Translation>
+      </Text>
+    </TextGroup>
+  </Texts>
+  <Typographies>
+    <Typography Id="Default" Font="verdana.ttf" Size="80" Bpp="4" Direction="LTR" FallbackCharacter="?" WildcardCharacters=". °C%" WildcardCharacterRanges="0-9">
+      <LanguageSetting Language="GB" Font="verdana.ttf" Size="80" Bpp="4" Direction="LTR" FallbackCharacter="." WildcardCharacterRanges="0-9" />
+    </Typography>
+    <Typography Id="Large" Font="verdana.ttf" Size="40" Bpp="4" Direction="RTL" FallbackCharacter="?" WildcardCharacters=". °C%" WildcardCharacterRanges="0-9" />
+    <Typography Id="Small" Font="verdana.ttf" Size="10" Bpp="4" Direction="LTR" FallbackCharacter="?" WildcardCharacters=". °C%" WildcardCharacterRanges="0-9" />
+  </Typographies>
+</TextDatabase>
